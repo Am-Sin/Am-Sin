@@ -9,6 +9,12 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 
+<div id="badges" align = "center">
+  <a href="https://leetcode.com/Am-Sin/">
+    <img src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode&logoColor=yellow" alt=""/>
+  </a>
+ 
+</div>
 
 
 **⚙️ Languages & Tools**:
