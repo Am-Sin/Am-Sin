@@ -21,13 +21,12 @@ You can click the Preview link to take a look at your changes.
 
 **⚙️ Languages & Tools**:
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="60" height="50"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt=Jupyter" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title=VS CODE" alt="VS CODE" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="My SQL" alt="My SQL" width="40" height="50"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp; 
-   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
-   <img src="https://flowygo.com/wp-content/uploads/2022/03/streamlit-logo.png" alt="Streamlit" width="60" height="50"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png" title="Anaconda" alt="Anaconda" width="60" height="40"/>&nbsp;
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" title="Jupyter" alt=Jupyter" width="40" height="40"/>&nbsp;
+   <img src="https://w7.pngwing.com/pngs/512/824/png-transparent-visual-studio-code-hd-logo-thumbnail.png" title="VS CODE" alt="VS CODE" width="40" height="40"/>&nbsp;
+   <img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Symbol.png" title="Python" alt="Python" width="60" height="40"/>&nbsp;
+   <img src="https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" title="My SQL" alt="My SQL" width="60" height="50"/>&nbsp;
+   <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Logo.png" title="Tableau" alt="Tableau" width="60" height="40"/>&nbsp; 
+   <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-lighttext.png" alt="Streamlit" width="60" height="50"/>&nbsp;
 </div>
